@@ -1,6 +1,5 @@
 # First Blockchain Implementation
 
-[cite_start]A foundational implementation of a basic Blockchain from scratch using Java, developed as part of the Operating Systems (OS) course at ITM SLS Baroda University[cite: 2, 4, 29]. [cite_start]This project demonstrates the core concepts that underpin distributed ledger technology and maps them to fundamental OS principles[cite: 29, 33].
 
 ## 📌 Project Overview
 
@@ -50,10 +49,4 @@ The project models a linked chain of cryptographically secured blocks. [cite_sta
 3.  **Run the Application:** Execute the `main` method in `NoobChain.java`.
 4.  **View Output:** The console will display mining progress and a JSON representation of the validated chain[cite: 139, 146].
 
-## 👥 Contributors
-* [cite_start]**Yug Paresh Vyas** (Enrollment No: 24C21108) [cite: 6]
-* [cite_start]**Arish Singh** (Enrollment No: 24C21113) [cite: 7]
-* [cite_start]**Guide:** Ms. Madonna Lemin [cite: 8]
 
----
-*Academic Year: 2025-26 | [cite_start]ITM SLS Baroda University* [cite: 8]
